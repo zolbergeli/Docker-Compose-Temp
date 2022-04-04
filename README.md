@@ -1,2 +1,2 @@
 # Docker-Compose-Temp
-Template for basic docker compose.yml
+Template for basic docker compose file
