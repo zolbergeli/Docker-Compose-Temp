@@ -1,0 +1,20 @@
+#A version number of docker compose must be specified
+version: '3'
+
+#Our services (Just a title The full detail below)
+services:
+
+#Just a  frindly name
+product-service:
+
+#What to build and from where (dir path)
+build:
+
+#Create a volume/s for the content
+#You can mount different file/s or locations to the container
+volumes:
+
+#Specify port/s
+ports:
+
+#You can add as much services as you like (website:volumes:ports:build:image: and more)
